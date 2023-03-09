@@ -16,7 +16,8 @@ References
 ========================
 Creating random hex color code:
 https://www.30secondsofcode.org/js/s/random-hex-color-code
+
 Callbacks, XMLHttpRequest:
-https://javascript.info/xmlhttprequest
+https://javascript.info/xmlhttprequest , 
 https://javascript.info/callbacks
 
