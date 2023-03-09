@@ -12,4 +12,11 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+References
+========================
+Creating random hex color code:
+https://www.30secondsofcode.org/js/s/random-hex-color-code
+Callbacks, XMLHttpRequest:
+https://javascript.info/xmlhttprequest
+https://javascript.info/callbacks
 
